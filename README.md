@@ -12,7 +12,8 @@ The goal of this project is to write Terraform code that accomplishes the follow
 
 - Create an Amazon S3 bucket in the same AWS region.
 
-<img width="979" height="588" alt="image" src="https://github.com/user-attachments/assets/ae9e24d5-5af3-48d5-85a0-eeff10c4a9a3" />
+<img width="1100" height="659" alt="image" src="https://github.com/user-attachments/assets/d54d0659-994c-475f-bd7d-de480c7642f5" />
+
 
 
 ## Execute the Terraform Commands
